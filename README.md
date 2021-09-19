@@ -4,5 +4,5 @@
 - <img width="" height="" src="./png/20273028myj.jpg"></img>
 
 ## 3주차 과제
-- <img width="" height="" src="./png/20273028_3weeks.png"></img>
-- <img width="" height="" src="./png/20273028_3weeks_2.png"></img>
+- <img width="40" height="50" src="./png/20273028_3weeks.png"></img>
+- <img width="40" height="50" src="./png/20273028_3weeks_2.png"></img>
