@@ -9,5 +9,5 @@
 ## 4주차 과제
 
 ## 5주차 과제
-- <img width="300" height="500" src="./png/20273028_5weeks.png"></img> <img width="300" height="500" src="./png/20273028_3weeks_2.png"></img>
-- <img width="300" height="500" src="./png/20273028_5weeks2.png"></img> <img width="300" height="500" src="./png/20273028_3weeks_2.png"></img>
+- <img width="300" height="500" src="./png/20273028_5weeks.png"></img> 
+- <img width="300" height="500" src="./png/20273028_5weeks2.png"></img>
