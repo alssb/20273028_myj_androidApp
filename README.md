@@ -7,6 +7,9 @@
 - <img width="300" height="500" src="./png/20273028_3weeks.png"></img> <img width="300" height="500" src="./png/20273028_3weeks_2.png"></img>
 
 ## 4주차 과제
+    - 습관 루틴 형성 앱
+    : 필요한 생활 습관에 관해 적고 일정시간에 알람을 정해둔다. 기본적으로 물마시기, 운동, 약 복용과 같이 건강 관련 정보와 알람을 기본적으로 제공한다.
+    일차적인 목표를 적고 그 목표에 대한 필요 습관을 형성하기 위한 앱이다. 
 
 ## 5주차 과제
 - <img width="300" height="500" src="./png/20273028_5weeks.png"></img> <img width="300" height="500" src="./png/20273028_5weeks2.png"></img>
