@@ -16,4 +16,4 @@
 - <img width="300" height="500" src="./png/20273028_5weeks.png"></img> <img width="300" height="500" src="./png/20273028_5weeks2.png"></img>
 
 ## 6주차 과제
--  <img width="300" height="500" src="./png/20273028_6weeks_1.png"></img> <img width="300" height="500" src="./png/20273028_6weeks_2.png"></img> <img width="300" height="500" src="./png/20273028_6weeks_3.png"></img> <img width="300" height="500" src="./png/20273028_6weeks_4.png"></img>
+-  <img width="300" height="500" src="./png/20273028_6weeks_1.png"></img> <img width="300" height="500" src="./png/20273028_6weeks_2.png"></img> - 이미지 바뀜 <img width="300" height="500" src="./png/20273028_6weeks_3.png"></img> - width 값  <img width="300" height="500" src="./png/20273028_6weeks_4.png"></img> - height 값
