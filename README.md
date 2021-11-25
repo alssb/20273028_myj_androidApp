@@ -35,4 +35,4 @@
 - <img width="250" height="500" src="./png/12weeks.png"></img>
 
 ## 13주차 과제
-- <img width="250" height="500" src="./png/13weeks.png"></img> <img width="250" height="500" src="./png/13weeks_2.png"></img>
+- <img width="300" height="500" src="./png/13weeks.png"></img> <img width="300" height="500" src="./png/13weeks_2.png"></img>
